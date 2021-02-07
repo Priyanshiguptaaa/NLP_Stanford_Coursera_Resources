@@ -2,7 +2,14 @@
 Natural Language Processing Lecture Slides from the 2012 Stanford Coursera course by Dan Jurafsky and Christopher Manning
 
 ## Lecture Series Link :
-https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1
+
+- https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1
+
+- Part-1 : https://www.youtube.com/watch?v=K1fwkUeVzyg
+- Part-2 : https://www.youtube.com/watch?v=KmvdzRFacVk&t=0s
+
+- https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+
 
 ## Resource List
 
